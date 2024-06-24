@@ -45,8 +45,8 @@ bot = commands.Bot(command_prefix='.', intents=intents, help_command=None)
 
 #### HERES YOUR CONFIG ####
 config = { #### HERES YOUR CONFIG ####
-    'token': "%token%", #### HERES YOUR CONFIG ####
-    'server_id': '%id%' #### HERES YOUR CONFIG ####
+    'token': "%MTIzMDkwNzM5MDE5NTUzNTk3NA.GnJp1B.cH_PSR2hUg0Tnx6Vx-XPKI6vL3YrMMNgLqZ0fU%", #### HERES YOUR CONFIG ####
+    'server_id': '%1230909128432554105%' #### HERES YOUR CONFIG ####
 } #### HERES YOUR CONFIG ####
 #### HERES YOUR CONFIG ####
 
